@@ -71,3 +71,6 @@ export default defineConfig([
   },
 ])
 ```
+
+
+GitHub Pages deployed.
