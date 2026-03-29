@@ -28,10 +28,10 @@ const footerLinks = {
   service: {
     title: '服务支持',
     links: [
+      { name: '税务合规服务', href: '/tax-service' },
+      { name: '反向开票', href: '/tax-service#reverse-invoice' },
       { name: '质量保障', href: '/service/quality' },
       { name: '检测服务', href: '/service/inspect' },
-      { name: '物流服务', href: '/service/logistics' },
-      { name: '售后服务', href: '/service/aftersales' },
     ],
   },
 };
