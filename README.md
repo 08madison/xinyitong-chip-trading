@@ -75,3 +75,5 @@ export default defineConfig([
 
 ## 更新日志
 - 2024-03-29: 添加税务合规服务模块
+
+- 修复 GitHub Pages 路径问题
