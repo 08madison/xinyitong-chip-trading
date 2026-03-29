@@ -22,8 +22,8 @@ import {
 const navLinks = [
   { name: '首页', href: '/' },
   { name: '芯片市场', href: '/products' },
+  { name: '税务服务', href: '/tax-service' },
   { name: '发布商品', href: '/publish' },
-  { name: '关于我们', href: '/about' },
 ];
 
 export function Navbar() {
